@@ -1,0 +1,6 @@
+instaloader
+easyocr
+schedule
+python-dotenv
+gspread
+oauth2client
